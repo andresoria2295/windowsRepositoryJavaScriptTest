@@ -1,0 +1,12 @@
+{
+  "name": "Ryan",
+  "lastname": "Ray",
+  "age": 22,
+  "nickname": "ryan123",
+  "hobbies": ["sing", "read", "run"],
+  "address": {
+    "street": "liberty avenue",
+    "city": "london"
+  },
+  "married": false
+}
